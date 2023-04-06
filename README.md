@@ -29,8 +29,7 @@ npm install
 
 Now just run
 ```
-npm start
-```
+ng serve```
 Wait to compile and go to [http://localhost:4200](http://localhost:4200) after compile finish
 
 ### Wait! I does not have finished yet!
